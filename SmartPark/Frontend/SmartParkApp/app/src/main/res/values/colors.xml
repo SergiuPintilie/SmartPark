@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+<!--    <color name="gradientPrimaryColor">#FF00E1FF</color>-->
+<!--    <color name="gradientSecondaryColor">#FF9EEDF8</color>-->
+    <color name="inputText">#80FFFFFF</color>
+<!--    Light theme colors!-->
+    <color name="primaryColorLight">#00747C</color>
+    <color name="secondaryColorLight">#00BBC9</color>
+    <color name="accentColorLight">#CACACA</color>
+    <color name="thirdColorLight">#878787</color>
+    <color name="fourthColorLight">#202022</color>
+
+<!--    Dark theme colors!    -->
+    <color name="primaryColorDark">#201F26</color>
+    <color name="secondaryColorDark">#07070D</color>
+    <color name="accentColorDark">#F0F1F2</color>
+    <color name="thirdColorDark">#565959</color>
+    <color name="fourthColorDark">#BFBFBF</color>
+
+<!--    Custom colors for parking spots!    -->
+    <color name="emptyParkingSpotColor">#00FF00</color>
+    <color name="bookedParkingSpotColor">#FFC107</color>
+    <color name="takenParkingSpotColor">#FF0000</color>
+    <color name="yourParkingSpotColor">#3F51B5</color>
+    <color name="parkingBackgroundColor">#303030</color>
+</resources>
